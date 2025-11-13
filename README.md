@@ -109,3 +109,4 @@ Add genre-wise popularity trends
 Integrate real-time Spotify API data
 
 Include sentiment analysis of lyrics using Python# spotify-dashboard
+https://github.com/aishwaryabhujbal31/spotify-dashboard/blob/main/overview.png
